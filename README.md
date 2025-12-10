@@ -21,3 +21,6 @@ A dynamic, grid-based ecosystem simulation featuring autonomous creatures, food 
 ```bash
 git clone https://github.com/ChenithaPalugaswewa/EvoDynamicsEngine
 cd EvoDynamicsEngine
+
+### **2. Ensure Pythons Installed
+python --version
